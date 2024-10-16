@@ -1,5 +1,3 @@
-# Spiegel_Kanon
+# »Die 100 besten Bücher – 1924 bis 2024: Der SPIEGEL-Literaturkanon«
 
-This is a repository for the list "Die 100 besten Bücher - 1924-2024: Der Spiegel-Literaturkanon" published in the german magazine Der Spiegel on the 10. october 2024. 
-
-https://www.spiegel.de/kultur/literatur/buecher-die-100-besten-aus-100-jahren-der-grosse-spiegel-literaturkanon-a-20228d8b-d02d-4020-b83f-5ae752c5bf1b
+This canon was published in German weekly »Der Spiegel« no. 42 (12 October 2024). We transformed it into a machine-readable list and enriched it with metadata on authors and works (cf. [their online edition](https://www.spiegel.de/kultur/literatur/spiegel-literaturkanon-die-besten-100-buecher-aus-100-jahren-a-e1e74cd7-9cd8-4743-9334-1622cab3ddb4), paywalled).
