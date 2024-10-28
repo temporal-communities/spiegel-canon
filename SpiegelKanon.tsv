@@ -1,4 +1,4 @@
-Number	Author	Wikidata_ID_Author	GND_ID_Author	Titel	Work_Wikidata_ID	Goodreads_Work_ID	Work_GND_ID	Publication_Date	Decade
+Number	Author	Wikidata_ID_Author	GND_ID_Author	Titel	Work_Wikidata_ID	Work_Goodreads_ID	Work_GND_ID	Publication_Date	Decade
 1	Mann, Thomas	Q37030	118577166	Der Zauberberg	Q212898	647489	4099303-6	1924	1924–1929
 2	Kafka, Franz	Q905	118559230	Das Schloß	Q682733	17778410	4099251-2	1926	1924–1929
 3	Traven, B.	Q55072099	118623672	Das Totenschiff	Q379108	2110103	4395527-7	1926	1924–1929
@@ -43,7 +43,7 @@ Number	Author	Wikidata_ID_Author	GND_ID_Author	Titel	Work_Wikidata_ID	Goodreads_
 41	Reimann, Brigitte	Q95231	118744070	Franziska Linkerhand	Q1450159	293220	4518055-6	1974	1970–1979
 42	Weiss, Peter	Q52191134	118630539	Die Ästhetik des Widerstands	Q448056	1220015	4099399-1	1975–1981	1970–1979
 43	Canetti, Elias	Q80064	118518801	Die gerettete Zunge	Q66738015	806963	4397835-6	1977	1970–1979
-44	Vesper, Bernward	Q75039	118626728	Die Reise	Q1102227	4288231	4585019-7	1977	1970–1979
+44	Vesper, Bernward	Q75039	118626728	Die Reise	Q1102227	4335793	4585019-7	1977	1970–1979
 45	Wander, Maxie	Q89932	118629050	Guten Morgen, du Schöne	Q23853425	4475399	4506036-8	1977	1970–1979
 46	Lenz, Hermann	Q77728	118571648	Tagebuch vom Überleben und Leben	Q130634066	2820074		1978	1970–1979
 47	Améry, Jean	Q15969	118502549	Charles Bovary, Landarzt	Q130633539	896293	1175139262	1978	1970–1979
